@@ -1,0 +1,29 @@
+_repo: Moralens-utveckling-Fri-bearbetning-efter-Ch-Letourneau-L-evolution-de-la-morale_59753
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Key, Ellen
+    alias: Key, Ellen Karolina Sofia
+    birthdate: 1849
+    deathdate: 1926
+    gutenberg_agent_id: '502'
+    url: http://www.gutenberg.org/2009/agents/502
+    wikipedia: http://en.wikipedia.org/wiki/Ellen_Key
+  - agent_name: Letourneau, Ch. (Charles)
+    gutenberg_agent_id: '50610'
+    url: http://www.gutenberg.org/2009/agents/50610
+description: ''
+gutenberg_issued: '2019-06-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '59753'
+language: sv
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Moralens utveckling
+
+  Fri bearbetning efter Ch. Letourneau: "L''évolution de la morale"'
+url: http://www.gutenberg.org/ebooks/59753
